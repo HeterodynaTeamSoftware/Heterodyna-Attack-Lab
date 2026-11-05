@@ -14,8 +14,6 @@ Wersja **v1.3.2** · WordPress · Open Source
 
 ![Heterodyna Attack Lab v1.3.2 — kokpit audytu WordPress](screeny/attack-lab-dashboard-v1.3.2.png)
 
-*Oryginalny zrzut kokpitu programu v1.3.2. Widoczne wartości odnoszą się do przedstawionego skanu, nie są deklaracją wyników każdej instalacji.*
-
 ## O projekcie
 
 **Heterodyna Attack Lab** to narzędzie do przeglądu bezpieczeństwa własnej instalacji WordPress. W jednym miejscu łączy analizę plików, ograniczone testy REST API, kontrolę uprawnień oraz przegląd zainstalowanych wtyczek i motywów.
