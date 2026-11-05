@@ -42,4 +42,4 @@ Przed audytem warto wykonać kopię zapasową. Aktywne testy HTTP uruchamiaj tyl
 
 Masz pomysł, pytanie lub błąd do zgłoszenia? Skorzystaj z [GitHub Issues](https://github.com/HeterodynaTeamSoftware/Heterodyna-Attack-Lab/issues). Nie publikuj tam sekretów, danych użytkowników ani wrażliwych logów. Zobacz także [zasady zgłaszania problemów bezpieczeństwa](SECURITY.md).
 
-**Autor:** [Heterodyna Team Software](https://heterodynateamsoftware.pl/) · **Licencja:** [GPL-2.0-or-later](LICENSE) (zgodnie z oznaczeniem w interfejsie v1.3.2).
+**Autor:** [Heterodyna Team Software](https://heterodynateamsoftware.pl/) · **Licencja:** [GPL-2.0-or-later](LICENSE).
