@@ -12,7 +12,7 @@ Wersja **v1.3.2** · WordPress · Open Source
 
 ## Podgląd interfejsu
 
-![Heterodyna Attack Lab v1.3.2 — kokpit audytu WordPress](screeny/attack-lab-dashboard-v1.3.2.webp)
+![Heterodyna Attack Lab v1.3.2 — kokpit audytu WordPress](screeny/attack-lab-dashboard-v1.3.2.png)
 
 *Oryginalny zrzut kokpitu programu v1.3.2. Widoczne wartości odnoszą się do przedstawionego skanu, nie są deklaracją wyników każdej instalacji.*
 
